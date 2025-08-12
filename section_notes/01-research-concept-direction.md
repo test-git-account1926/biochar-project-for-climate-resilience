@@ -1,5 +1,3 @@
-# Research Concept & Direction
-
 ## Overview
 
 This research investigates the application of biochar—carbon-rich material produced through pyrolysis of agricultural waste—to enhance drought resilience in maize (corn) crops. Drought stress is a major constraint on maize yield worldwide, especially under climate change scenarios. Biochar has been shown to improve soil water retention, nutrient availability, and microbial activity, but its effects vary with soil type, crop variety, and environmental conditions. The objective is to evaluate biochar’s potential to reduce yield losses during water-limited conditions while promoting sustainable soil health.
